@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.title("Project3 Team1 Visualization")
-
+st.sidebar.image("lh.png")
 
 @st.cache
 def load_data(nrows):
@@ -39,13 +39,29 @@ product_selector = sidebar.selectbox(
 
 df_selected = df.loc[(df["Region"] == Region_selector) & (df["Country"] == country_selector) & (df["ProductCategory"] == product_selector)]
 
-st.subheader(f"The {product_selector} of {country_selector} in {Region_selector} has the following RevenueTarget:")
+st.subheader(f"The {product_selector} product of {country_selector} in {Region_selector} has the following Revenue per Campaign:")
 
 show_data = sidebar.checkbox("Show Data")
 if show_data:
     st.dataframe(df_selected)
 
-df_selected.groupby(["CampaignName"]).sum().plot(kind = "pie", y = "RevenueTarget", title = "RevenueTarget by campaign name")
-plt.legend(loc = 0)
+df_selected.groupby(["CampaignName"]).sum().plot(kind = "pie", y = "Revenue", autopct='%.1f%%')
+plt.legend(loc='lower left', prop={'size': 7})
 plt.show()
 st.pyplot()
+
+st.subheader(f"The {product_selector} product of {country_selector} in {Region_selector} has the following RevenueTarget per Campaign:")
+
+df_selected.groupby(["CampaignName"]).sum().plot(kind = "pie", y = "RevenueTarget", autopct='%.1f%%')
+plt.legend(loc='lower left', prop={'size': 7})
+plt.show()
+st.pyplot()
+
+st.bar_chart(df_selected.groupby(["CampaignName"]).sum("RevenueTarget"))
+
+
+df_selected.plot.bar(x='CampaignName', y = ["Revenue","RevenueTarget"])
+plt.legend(loc='upper right', prop={'size': 7})
+plt.show()
+st.pyplot()
+
