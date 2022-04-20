@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
+import plotly.express as px
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.title("Project3 Team1 Visualization")
@@ -45,7 +46,12 @@ show_data = sidebar.checkbox("Show Data")
 if show_data:
     st.dataframe(df_selected)
 
-df_selected.groupby(["CampaignName"]).sum().plot(kind = "pie", y = "Revenue", autopct='%.1f%%')
+values = st.sidebar.slider("Revenue range", float(df_selected["Revenue"].min()), float(df_selected["Revenue"].max()), (0.0, 1000.0))
+f = px.histogram(df.query(f"Revenue.between{values}"), x="Revenue", nbins=15, title  = "Revenue distribution")
+f.update_yaxes(title="Revenue")
+st.plotly_chart(f)
+
+df_selected.groupby(["CampaignName"]).sum().plot(kind = "pie", y = "Revenue", autopct='%.1f%%', shadow=True)
 plt.legend(loc='lower left', prop={'size': 7})
 plt.show()
 st.pyplot()
