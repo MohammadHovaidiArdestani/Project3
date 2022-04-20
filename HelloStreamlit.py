@@ -64,4 +64,3 @@ df_selected.plot.bar(x='CampaignName', y = ["Revenue","RevenueTarget"])
 plt.legend(loc='upper right', prop={'size': 7})
 plt.show()
 st.pyplot()
-
