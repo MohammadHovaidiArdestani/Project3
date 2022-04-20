@@ -1,0 +1,555 @@
+Region,Country,ProductCategory,CampaignName,Revenue,RevenueTarget,City,State
+Europe,Germany,Apparel and Footwear,Fun with Colors,14865.00,15960.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14992.00,15699.00,San Diego,California
+Europe,Germany,Apparel and Footwear,Fall into Winter,5117.00,8713.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9935.00,15232.00,San Diego,California
+Europe,France,Apparel and Footwear,Enjoy the Moment,13221.00,8584.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15119.00,17269.00,San Diego,California
+Europe,UK,Lighting,Fall into Winter,5117.00,9305.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15740.00,7685.00,San Diego,California
+South America,Mexico,Electronics,Be Unique,16240.00,16038.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14778.00,13122.00,San Diego,California
+North & Central America,USA,Décor,Spring into Summer,6689.00,13088.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10296.00,7313.00,San Diego,California
+South America,Mexico,Apparel and Footwear,Enjoy the Moment,1398.00,5663.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14605.00,18971.00,San Diego,California
+South America,Brazil,Décor,Fun with Colors,15142.00,7147.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14328.00,15577.00,San Diego,California
+South America,Mexico,Exercise,Spring into Summer,17637.00,6876.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11247.00,10339.00,San Diego,California
+South America,Mexico,Décor,Be Unique,8284.00,9840.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12409.00,10914.00,San Diego,California
+South America,Mexico,Apparel and Footwear,Tailored for You,5766.00,17620.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5418.00,13970.00,San Diego,California
+Europe,Spain,Furniture,Enjoy the Moment,12488.00,18299.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15387.00,6961.00,San Diego,California
+Asia Pacific,Japan,Décor,Tailored for You,11400.00,15117.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11620.00,17230.00,San Diego,California
+Europe,Germany,Electronics,Fall into Winter,7607.00,15850.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,17859.00,17681.00,San Diego,California
+Europe,Italy,Lighting,Get Sporty,9486.00,8891.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6738.00,11176.00,San Diego,California
+North & Central America,Canada,Lighting,Fun with Colors,13349.00,16936.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10934.00,19723.00,San Diego,California
+Europe,Turkey,Pillows & Cushions,Tailored for You,10269.00,11191.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9963.00,18377.00,San Diego,California
+Asia Pacific,Australia,Exercise,Be Unique,6883.00,10341.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10344.00,15220.00,San Diego,California
+South America,Mexico,Furniture,Tailored for You,12882.00,19806.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,7842.00,10624.00,San Diego,California
+Europe,Germany,Apparel and Footwear,Get Sporty,16810.00,10178.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,13735.00,16671.00,San Diego,California
+Asia Pacific,China,Apparel and Footwear,Tailored for You,5434.00,10709.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14290.00,10487.00,San Diego,California
+North & Central America,USA,Electronics,Enjoy the Moment,6278.00,11478.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12739.00,19242.00,San Diego,California
+Asia Pacific,Australia,Exercise,Be Unique,6580.00,5490.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,19503.00,14609.00,San Diego,California
+Asia Pacific,Korea,Pillows & Cushions,Enjoy the Moment,5889.00,9819.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5496.00,15301.00,San Diego,California
+Europe,France,Décor,Fun with Colors,16593.00,10533.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11441.00,6741.00,San Diego,California
+Europe,Italy,Pillows & Cushions,Tailored for You,13681.00,13003.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,136.00,15079.00,San Diego,California
+South America,Mexico,Décor,Be Unique,15521.00,13935.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1370.00,16389.00,San Diego,California
+North & Central America,USA,Pillows & Cushions,Be Unique,13802.00,5380.00,,
+South America,Brazil,Décor,Enjoy the Moment,13945.00,13624.00,,
+South America,Brazil,Furniture,Enjoy the Moment,11245.00,18041.00,,
+Europe,Germany,Apparel and Footwear,Fall into Winter,1383.00,11336.00,,
+Asia Pacific,India,Apparel and Footwear,Get Sporty,11231.00,18669.00,,
+South America,Mexico,Lighting,Fall into Winter,6285.00,8448.00,,
+South America,Brazil,Electronics,Fun with Colors,9864.00,5802.00,,
+North & Central America,USA,Lighting,Tailored for You,15670.00,5412.00,,
+Asia Pacific,Australia,Pillows & Cushions,Fall into Winter,8221.00,15730.00,,
+Europe,Italy,Electronics,Enjoy the Moment,6815.00,14606.00,,
+Asia Pacific,India,Décor,Enjoy the Moment,14300.00,13983.00,,
+North & Central America,Canada,Pillows & Cushions,Be Unique,13873.00,10617.00,,
+Asia Pacific,Japan,Exercise,Enjoy the Moment,15575.00,19053.00,,
+South America,Brazil,Exercise,Get Sporty,16611.00,7917.00,,
+North & Central America,USA,Apparel and Footwear,Be Unique,13174.00,14329.00,,
+North & Central America,USA,Pillows & Cushions,Spring into Summer,12174.00,6996.00,,
+South America,Brazil,Pillows & Cushions,Tailored for You,8804.00,10137.00,,
+Europe,Italy,Décor,Be Unique,5867.00,19049.00,,
+Europe,Italy,Exercise,Enjoy the Moment,11838.00,13538.00,,
+Asia Pacific,Australia,Lighting,Enjoy the Moment,9112.00,11930.00,,
+Asia Pacific,Indonesia,Electronics,Enjoy the Moment,11290.00,12495.00,,
+North & Central America,Canada,Exercise,Fall into Winter,16386.00,9989.00,,
+Europe,UK,Furniture,Tailored for You,13789.00,13596.00,,
+South America,Brazil,Pillows & Cushions,Be Unique,14691.00,14601.00,,
+North & Central America,Canada,Electronics,Get Sporty,17291.00,12719.00,,
+Asia Pacific,Indonesia,Exercise,Get Sporty,12974.00,19462.00,,
+North & Central America,USA,Lighting,Spring into Summer,10865.00,17907.00,,
+Asia Pacific,Indonesia,Furniture,Enjoy the Moment,10246.00,18683.00,,
+South America,Mexico,Exercise,Tailored for You,9253.00,14347.00,,
+Europe,France,Electronics,Get Sporty,1159.00,19059.00,,
+Asia Pacific,Australia,Lighting,Fall into Winter,13512.00,18877.00,,
+Asia Pacific,Indonesia,Electronics,Fun with Colors,12711.00,8946.00,,
+Europe,France,Furniture,Get Sporty,13124.00,14955.00,,
+Europe,Germany,Lighting,Get Sporty,1027.00,10643.00,,
+Europe,Turkey,Lighting,Be Unique,14726.00,5249.00,,
+Europe,France,Exercise,Be Unique,11703.00,9822.00,,
+South America,Mexico,Lighting,Fall into Winter,1662.00,7721.00,,
+South America,Brazil,Lighting,Get Sporty,16207.00,14061.00,,
+North & Central America,USA,Electronics,Fun with Colors,6414.00,12619.00,,
+South America,Brazil,Electronics,Fun with Colors,6497.00,6147.00,,
+Europe,France,Décor,Be Unique,6593.00,17096.00,,
+Asia Pacific,Australia,Lighting,Enjoy the Moment,16850.00,15753.00,,
+North & Central America,Canada,Lighting,Enjoy the Moment,9668.00,14658.00,,
+South America,Mexico,Apparel and Footwear,Enjoy the Moment,10223.00,17414.00,,
+Europe,UK,Pillows & Cushions,Be Unique,8264.00,19049.00,,
+Europe,Italy,Apparel and Footwear,Tailored for You,7131.00,7453.00,,
+Europe,Spain,Exercise,Be Unique,9761.00,13831.00,,
+Asia Pacific,Japan,Lighting,Tailored for You,15642.00,10214.00,,
+South America,Brazil,Décor,Enjoy the Moment,15719.00,8723.00,,
+Europe,UK,Pillows & Cushions,Enjoy the Moment,12642.00,11692.00,,
+Europe,Germany,Décor,Tailored for You,7273.00,6184.00,,
+Europe,Turkey,Electronics,Enjoy the Moment,17101.00,13212.00,,
+South America,Mexico,Apparel and Footwear,Enjoy the Moment,9250.00,15790.00,,
+North & Central America,Canada,Lighting,Tailored for You,14804.00,17275.00,,
+South America,Mexico,Apparel and Footwear,Spring into Summer,8121.00,10451.00,,
+North & Central America,Canada,Apparel and Footwear,Spring into Summer,17486.00,11990.00,,
+North & Central America,Canada,Décor,Be Unique,9192.00,6179.00,,
+North & Central America,USA,Décor,Spring into Summer,5318.00,16079.00,,
+North & Central America,Canada,Exercise,Be Unique,8465.00,7654.00,,
+North & Central America,USA,Pillows & Cushions,Enjoy the Moment,5391.00,14679.00,,
+Asia Pacific,Korea,Décor,Be Unique,17627.00,11422.00,,
+North & Central America,USA,Exercise,Fun with Colors,15850.00,18751.00,,
+North & Central America,USA,Electronics,Enjoy the Moment,15148.00,19098.00,,
+South America,Brazil,Décor,Tailored for You,9229.00,16528.00,,
+Europe,Italy,Pillows & Cushions,Tailored for You,5846.00,8447.00,,
+North & Central America,USA,Electronics,Be Unique,14995.00,19129.00,,
+North & Central America,USA,Décor,Fun with Colors,5197.00,18456.00,,
+North & Central America,USA,Apparel and Footwear,Enjoy the Moment,13554.00,19215.00,,
+South America,Brazil,Apparel and Footwear,Enjoy the Moment,5103.00,6799.00,,
+South America,Mexico,Décor,Enjoy the Moment,7197.00,5731.00,,
+Asia Pacific,Australia,Apparel and Footwear,Be Unique,11988.00,19348.00,,
+Europe,Germany,Apparel and Footwear,Fun with Colors,14865.00,15960.00,,
+Europe,Italy,Lighting,Tailored for You,14992.00,15699.00,,
+Europe,Germany,Apparel and Footwear,Fall into Winter,5117.00,8713.00,,
+Europe,France,Lighting,Enjoy the Moment,15119.00,17269.00,,
+Europe,France,Apparel and Footwear,Enjoy the Moment,13221.00,8584.00,,
+Europe,Italy,Apparel and Footwear,Enjoy the Moment,15740.00,7685.00,,
+Europe,UK,Lighting,Fall into Winter,5117.00,9305.00,,
+Asia Pacific,Indonesia,Electronics,Be Unique,14778.00,13122.00,,
+South America,Mexico,Electronics,Be Unique,16240.00,16038.00,,
+North & Central America,Canada,Electronics,Enjoy the Moment,10296.00,7313.00,,
+North & Central America,USA,Décor,Spring into Summer,6689.00,13088.00,,
+Asia Pacific,China,Décor,Enjoy the Moment,14605.00,18971.00,,
+South America,Mexico,Apparel and Footwear,Enjoy the Moment,1398.00,5663.00,,
+Europe,Spain,Pillows & Cushions,Tailored for You,14328.00,15577.00,,
+South America,Brazil,Décor,Fun with Colors,15142.00,7147.00,,
+Europe,Italy,Electronics,Tailored for You,11247.00,10339.00,,
+South America,Mexico,Exercise,Spring into Summer,17637.00,6876.00,,
+Asia Pacific,Australia,Pillows & Cushions,Be Unique,12409.00,10914.00,,
+South America,Mexico,Décor,Be Unique,8284.00,9840.00,,
+South America,Brazil,Pillows & Cushions,Get Sporty,5418.00,13970.00,,
+South America,Mexico,Apparel and Footwear,Tailored for You,5766.00,17620.00,,
+North & Central America,USA,Pillows & Cushions,Enjoy the Moment,15387.00,6961.00,,
+Europe,Spain,Furniture,Enjoy the Moment,12488.00,18299.00,,
+North & Central America,USA,Pillows & Cushions,Be Unique,17859.00,17681.00,,
+Asia Pacific,Japan,Décor,Tailored for You,11400.00,15117.00,,
+South America,Brazil,Lighting,Spring into Summer,10934.00,19723.00,,
+Europe,Germany,Electronics,Fall into Winter,7607.00,15850.00,,
+North & Central America,USA,Décor,Enjoy the Moment,10344.00,15220.00,,
+Europe,Italy,Lighting,Get Sporty,9486.00,8891.00,,
+North & Central America,Canada,Exercise,Fun with Colors,13735.00,16671.00,,
+North & Central America,Canada,Lighting,Fun with Colors,13349.00,16936.00,,
+Europe,Germany,Pillows & Cushions,Fun with Colors,14290.00,10487.00,,
+Europe,Turkey,Pillows & Cushions,Tailored for You,10269.00,11191.00,,
+Europe,Spain,Electronics,Fall into Winter,12739.00,19242.00,,
+Asia Pacific,Australia,Exercise,Be Unique,6883.00,10341.00,,
+Europe,Germany,Exercise,Enjoy the Moment,19503.00,14609.00,,
+South America,Mexico,Furniture,Tailored for You,12882.00,19806.00,,
+North & Central America,USA,Electronics,Enjoy the Moment,11441.00,6741.00,,
+Europe,Germany,Apparel and Footwear,Get Sporty,16810.00,10178.00,,
+Asia Pacific,Korea,Lighting,Tailored for You,136.00,15079.00,,
+Asia Pacific,China,Apparel and Footwear,Tailored for You,5434.00,10709.00,,
+South America,Mexico,Décor,Fall into Winter,1370.00,16389.00,,
+North & Central America,USA,Electronics,Enjoy the Moment,6278.00,11478.00,,
+South America,Brazil,Décor,Be Unique,21637.00,5666.00,,
+Asia Pacific,Australia,Exercise,Be Unique,6580.00,5490.00,,
+North & Central America,Canada,Electronics,Fun with Colors,10480.00,7379.00,,
+Asia Pacific,Korea,Pillows & Cushions,Enjoy the Moment,5889.00,9819.00,,
+Asia Pacific,Japan,Electronics,Spring into Summer,9781.00,19592.00,,
+Europe,France,Décor,Fun with Colors,16593.00,10533.00,,
+Europe,UK,Pillows & Cushions,Be Unique,16859.00,13324.00,,
+Europe,Italy,Pillows & Cushions,Tailored for You,13681.00,13003.00,,
+Europe,Germany,Exercise,Fall into Winter,14764.00,5876.00,,
+South America,Mexico,Décor,Be Unique,15521.00,13935.00,,
+South America,Brazil,Décor,Enjoy the Moment,13945.00,13624.00,,
+North & Central America,USA,Pillows & Cushions,Be Unique,13802.00,5380.00,,
+Europe,Germany,Apparel and Footwear,Fall into Winter,1383.00,11336.00,,
+South America,Brazil,Furniture,Enjoy the Moment,11245.00,18041.00,,
+South America,Mexico,Lighting,Fall into Winter,6285.00,8448.00,,
+Asia Pacific,India,Apparel and Footwear,Get Sporty,11231.00,18669.00,,
+North & Central America,USA,Lighting,Tailored for You,15670.00,5412.00,,
+South America,Brazil,Electronics,Fun with Colors,9864.00,5802.00,,
+Europe,Italy,Electronics,Enjoy the Moment,6815.00,14606.00,,
+Asia Pacific,Australia,Pillows & Cushions,Fall into Winter,8221.00,15730.00,,
+North & Central America,Canada,Pillows & Cushions,Be Unique,13873.00,10617.00,,
+Asia Pacific,India,Décor,Enjoy the Moment,14300.00,13983.00,,
+South America,Brazil,Exercise,Get Sporty,16611.00,7917.00,,
+Asia Pacific,Japan,Exercise,Enjoy the Moment,15575.00,19053.00,,
+North & Central America,USA,Pillows & Cushions,Spring into Summer,12174.00,6996.00,,
+North & Central America,USA,Apparel and Footwear,Be Unique,13174.00,14329.00,,
+Europe,Italy,Décor,Be Unique,5867.00,19049.00,,
+South America,Brazil,Pillows & Cushions,Tailored for You,8804.00,10137.00,,
+Asia Pacific,Australia,Lighting,Enjoy the Moment,9112.00,11930.00,,
+Europe,Italy,Exercise,Enjoy the Moment,11838.00,13538.00,,
+North & Central America,Canada,Exercise,Fall into Winter,16386.00,9989.00,,
+Asia Pacific,Indonesia,Electronics,Enjoy the Moment,11290.00,12495.00,,
+South America,Brazil,Pillows & Cushions,Be Unique,14691.00,14601.00,,
+Europe,UK,Furniture,Tailored for You,13789.00,13596.00,,
+Asia Pacific,Indonesia,Exercise,Get Sporty,12974.00,19462.00,,
+North & Central America,Canada,Electronics,Get Sporty,17291.00,12719.00,,
+Asia Pacific,Indonesia,Furniture,Enjoy the Moment,10246.00,18683.00,,
+North & Central America,USA,Lighting,Spring into Summer,10865.00,17907.00,,
+Europe,France,Electronics,Get Sporty,1159.00,19059.00,,
+South America,Mexico,Exercise,Tailored for You,9253.00,14347.00,,
+Asia Pacific,Indonesia,Electronics,Fun with Colors,12711.00,8946.00,,
+Asia Pacific,Australia,Lighting,Fall into Winter,13512.00,18877.00,,
+Europe,Germany,Lighting,Get Sporty,1027.00,10643.00,,
+Europe,France,Furniture,Get Sporty,13124.00,14955.00,,
+Europe,France,Exercise,Be Unique,11703.00,9822.00,,
+Europe,Turkey,Lighting,Be Unique,14726.00,5249.00,,
+South America,Brazil,Lighting,Get Sporty,16207.00,14061.00,,
+North & Central America,Canada,Furniture,Enjoy the Moment,10113.00,9976.00,,
+South America,Brazil,Electronics,Fun with Colors,6497.00,6147.00,,
+North & Central America,Canada,Pillows & Cushions,Enjoy the Moment,13773.00,11719.00,,
+Asia Pacific,Australia,Lighting,Enjoy the Moment,16850.00,15753.00,,
+Asia Pacific,China,Electronics,Be Unique,14944.00,6089.00,,
+South America,Mexico,Apparel and Footwear,Enjoy the Moment,10223.00,17414.00,,
+Asia Pacific,India,Exercise,Be Unique,16753.00,13851.00,,
+Europe,Italy,Apparel and Footwear,Tailored for You,7131.00,7453.00,,
+South America,Brazil,Pillows & Cushions,Spring into Summer,16347.00,6942.00,,
+Asia Pacific,Japan,Lighting,Tailored for You,15642.00,10214.00,,
+Asia Pacific,Korea,Electronics,Be Unique,6691.00,7070.00,,
+Europe,UK,Pillows & Cushions,Enjoy the Moment,12642.00,11692.00,,
+Asia Pacific,China,Décor,Be Unique,13516.00,8891.00,,
+Europe,Turkey,Electronics,Enjoy the Moment,17101.00,13212.00,,
+Europe,Spain,Décor,Fall into Winter,12907.00,5218.00,,
+North & Central America,Canada,Lighting,Tailored for You,14804.00,17275.00,,
+North & Central America,Canada,Furniture,Enjoy the Moment,10113.00,9976.00,,
+North & Central America,Canada,Apparel and Footwear,Spring into Summer,17486.00,11990.00,,
+North & Central America,Canada,Pillows & Cushions,Enjoy the Moment,13773.00,11719.00,,
+North & Central America,USA,Décor,Spring into Summer,5318.00,16079.00,,
+Asia Pacific,China,Electronics,Be Unique,14944.00,6089.00,,
+North & Central America,USA,Pillows & Cushions,Enjoy the Moment,5391.00,14679.00,,
+Asia Pacific,India,Exercise,Be Unique,16753.00,13851.00,,
+North & Central America,USA,Exercise,Fun with Colors,15850.00,18751.00,,
+South America,Brazil,Pillows & Cushions,Spring into Summer,16347.00,6942.00,,
+South America,Brazil,Décor,Tailored for You,9229.00,16528.00,,
+Asia Pacific,Korea,Electronics,Be Unique,6691.00,7070.00,,
+North & Central America,USA,Electronics,Be Unique,14995.00,19129.00,,
+Asia Pacific,China,Décor,Be Unique,13516.00,8891.00,,
+North & Central America,USA,Apparel and Footwear,Enjoy the Moment,13554.00,19215.00,,
+Europe,Spain,Décor,Fall into Winter,12907.00,5218.00,,
+South America,Mexico,Décor,Enjoy the Moment,7197.00,5731.00,,
+South East,US,Team Sports,Enjoy the Moment,16523.00,17741.00,Miami,Florida
+Asia Pacific,Australia,Apparel and Footwear,Get Sporty,17384.00,8018.00,,
+South East,US,Team Sports,Spring into Summer,5333.00,7346.00,Miami,Florida
+Asia Pacific,Indonesia,Electronics,Spring into Summer,17810.00,7536.00,,
+South East,US,Team Sports,Be Unique,17488.00,9941.00,Miami,Florida
+Europe,Turkey,Lighting,Enjoy the Moment,8382.00,19209.00,,
+South East,US,Team Sports,Fun with Colors,5712.00,6947.00,Miami,Florida
+Europe,Italy,Apparel and Footwear,Be Unique,12366.00,11187.00,,
+South East,US,Team Sports,Enjoy the Moment,9702.00,7876.00,Miami,Florida
+Asia Pacific,India,Lighting,Get Sporty,920.00,13475.00,,
+South East,US,Team Sports,Fall into Winter,5972.00,10692.00,Miami,Florida
+Europe,France,Apparel and Footwear,Spring into Summer,14445.00,12231.00,,
+South East,US,Team Sports,Fun with Colors,12929.00,9077.00,Miami,Florida
+Europe,UK,Furniture,Be Unique,5120.00,16652.00,,
+South East,US,Team Sports,Tailored for You,10225.00,12472.00,Miami,Florida
+South America,Mexico,Electronics,Fall into Winter,12503.00,9977.00,,
+South East,US,Team Sports,Tailored for You,71.00,10528.00,Miami,Florida
+Europe,Spain,Electronics,Be Unique,10260.00,14654.00,,
+South East,US,Team Sports,Be Unique,11564.00,19306.00,Miami,Florida
+South America,Mexico,Electronics,Fun with Colors,1261.00,19769.00,,
+South East,US,Team Sports,Enjoy the Moment,7146.00,17780.00,Miami,Florida
+Europe,France,Pillows & Cushions,Enjoy the Moment,15557.00,14176.00,,
+South East,US,Team Sports,Fall into Winter,5622.00,12306.00,Miami,Florida
+Europe,Germany,Electronics,Enjoy the Moment,5466.00,9140.00,,
+South East,US,Team Sports,Spring into Summer,10182.00,13630.00,Miami,Florida
+North & Central America,Canada,Pillows & Cushions,Enjoy the Moment,11404.00,16844.00,,
+South East,US,Team Sports,Get Sporty,8710.00,9713.00,Miami,Florida
+Europe,Spain,Apparel and Footwear,Tailored for You,5684.00,5400.00,,
+South East,US,Team Sports,Enjoy the Moment,9348.00,11769.00,Miami,Florida
+North & Central America,USA,Apparel and Footwear,Enjoy the Moment,19142.00,19858.00,,
+South East,US,Team Sports,Spring into Summer,10182.00,13630.00,Miami,Florida
+South America,Mexico,Exercise,Spring into Summer,7133.00,7388.00,,
+South East,US,Team Sports,Get Sporty,8710.00,9713.00,Miami,Florida
+Asia Pacific,China,Apparel and Footwear,Fall into Winter,11145.00,12957.00,,
+South East,US,Team Sports,Enjoy the Moment,9348.00,11769.00,Miami,Florida
+Europe,Italy,Furniture,Spring into Summer,17484.00,9517.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,13873.00,10617.00,San Diego,California
+Asia Pacific,Australia,Apparel and Footwear,Be Unique,7365.00,13123.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16611.00,7917.00,San Diego,California
+South America,Mexico,Décor,Enjoy the Moment,9831.00,15236.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12174.00,6996.00,San Diego,California
+South America,Mexico,Décor,Tailored for You,14316.00,19274.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5867.00,19049.00,San Diego,California
+Europe,UK,Décor,Enjoy the Moment,13732.00,5799.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9112.00,11930.00,San Diego,California
+North & Central America,USA,Exercise,Tailored for You,5515.00,18229.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16386.00,9989.00,San Diego,California
+Europe,France,Electronics,Enjoy the Moment,9764.00,9300.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14691.00,14601.00,San Diego,California
+Europe,Turkey,Apparel and Footwear,Be Unique,11719.00,19049.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12974.00,19462.00,San Diego,California
+South America,Brazil,Apparel and Footwear,Tailored for You,5233.00,12227.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10246.00,18683.00,San Diego,California
+North & Central America,USA,Furniture,Spring into Summer,714.00,16466.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5333.00,7346.00,San Diego,California
+Europe,Italy,Furniture,Spring into Summer,7505.00,19524.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1159.00,19059.00,San Diego,California
+Europe,Spain,Apparel and Footwear,Be Unique,8871.00,13868.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,17488.00,9941.00,San Diego,California
+Europe,Turkey,Lighting,Tailored for You,12965.00,12220.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12711.00,8946.00,San Diego,California
+Asia Pacific,Japan,Pillows & Cushions,Fun with Colors,9952.00,13231.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5712.00,6947.00,San Diego,California
+Europe,Spain,Furniture,Be Unique,12191.00,14106.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1027.00,10643.00,San Diego,California
+Asia Pacific,Indonesia,Pillows & Cushions,Be Unique,16835.00,12382.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11703.00,9822.00,San Diego,California
+South America,Brazil,Apparel and Footwear,Get Sporty,8518.00,19121.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16207.00,14061.00,San Diego,California
+North & Central America,USA,Pillows & Cushions,Enjoy the Moment,10414.00,9245.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6497.00,6147.00,San Diego,California
+South America,Brazil,Electronics,Spring into Summer,5663.00,16837.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16850.00,15753.00,San Diego,California
+North & Central America,Canada,Apparel and Footwear,Be Unique,8556.00,18352.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,21637.00,5666.00,San Diego,California
+Europe,Spain,Exercise,Be Unique,522.00,7920.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10480.00,7379.00,San Diego,California
+Asia Pacific,China,Exercise,Get Sporty,5484.00,11469.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9781.00,19592.00,San Diego,California
+Asia Pacific,Australia,Apparel and Footwear,Get Sporty,17384.00,8018.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16859.00,13324.00,San Diego,California
+Asia Pacific,Indonesia,Electronics,Spring into Summer,17810.00,7536.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14764.00,5876.00,San Diego,California
+Europe,Turkey,Lighting,Enjoy the Moment,8382.00,19209.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16523.00,17741.00,San Diego,California
+Europe,Italy,Apparel and Footwear,Be Unique,12366.00,11187.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,13945.00,13624.00,San Diego,California
+Asia Pacific,India,Lighting,Get Sporty,920.00,13475.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1383.00,11336.00,San Diego,California
+Europe,France,Apparel and Footwear,Spring into Summer,14445.00,12231.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6285.00,8448.00,San Diego,California
+Europe,UK,Furniture,Be Unique,5120.00,16652.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15670.00,5412.00,San Diego,California
+South America,Mexico,Electronics,Fall into Winter,12503.00,9977.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6815.00,14606.00,San Diego,California
+Europe,Spain,Electronics,Be Unique,10260.00,14654.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,21637.00,5666.00,San Diego,California
+South America,Mexico,Electronics,Fun with Colors,1261.00,19769.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10480.00,7379.00,San Diego,California
+Europe,France,Pillows & Cushions,Enjoy the Moment,15557.00,14176.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9781.00,19592.00,San Diego,California
+Europe,Germany,Electronics,Enjoy the Moment,5466.00,9140.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16859.00,13324.00,San Diego,California
+North & Central America,Canada,Pillows & Cushions,Enjoy the Moment,11404.00,16844.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14764.00,5876.00,San Diego,California
+Europe,Spain,Apparel and Footwear,Tailored for You,5684.00,5400.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16523.00,17741.00,San Diego,California
+North & Central America,USA,Apparel and Footwear,Enjoy the Moment,19142.00,19858.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,13945.00,13624.00,San Diego,California
+South America,Mexico,Exercise,Spring into Summer,7133.00,7388.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1383.00,11336.00,San Diego,California
+Asia Pacific,China,Apparel and Footwear,Fall into Winter,11145.00,12957.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6285.00,8448.00,San Diego,California
+Europe,Italy,Furniture,Spring into Summer,17484.00,9517.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15670.00,5412.00,San Diego,California
+Asia Pacific,Australia,Apparel and Footwear,Be Unique,7365.00,13123.00,,
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6815.00,14606.00,San Diego,California
+South America,Mexico,Décor,Enjoy the Moment,9831.00,15236.00,,
+South America,Mexico,Décor,Tailored for You,14316.00,19274.00,,
+Europe,UK,Décor,Enjoy the Moment,13732.00,5799.00,,
+North & Central America,USA,Exercise,Tailored for You,5515.00,18229.00,,
+Europe,France,Electronics,Enjoy the Moment,9764.00,9300.00,,
+Europe,Turkey,Apparel and Footwear,Be Unique,11719.00,19049.00,,
+South America,Brazil,Apparel and Footwear,Tailored for You,5233.00,12227.00,,
+North & Central America,USA,Furniture,Spring into Summer,714.00,16466.00,,
+Europe,Italy,Furniture,Spring into Summer,7505.00,19524.00,,
+Europe,Spain,Apparel and Footwear,Be Unique,8871.00,13868.00,,
+Europe,Turkey,Lighting,Tailored for You,12965.00,12220.00,,
+Asia Pacific,Japan,Pillows & Cushions,Fun with Colors,9952.00,13231.00,,
+Europe,Spain,Furniture,Be Unique,12191.00,14106.00,,
+Asia Pacific,Indonesia,Pillows & Cushions,Be Unique,16835.00,12382.00,,
+South America,Brazil,Apparel and Footwear,Get Sporty,8518.00,19121.00,,
+North & Central America,USA,Pillows & Cushions,Enjoy the Moment,10414.00,9245.00,,
+South America,Brazil,Electronics,Spring into Summer,5663.00,16837.00,,
+North & Central America,Canada,Apparel and Footwear,Be Unique,8556.00,18352.00,,
+Europe,Spain,Exercise,Be Unique,522.00,7920.00,,
+Asia Pacific,China,Exercise,Get Sporty,5484.00,11469.00,,
+South America,Mexico,Lighting,Fall into Winter,1662.00,7721.00,,
+North & Central America,USA,Electronics,Fun with Colors,6414.00,12619.00,,
+Europe,France,Décor,Be Unique,6593.00,17096.00,,
+North & Central America,Canada,Lighting,Enjoy the Moment,9668.00,14658.00,,
+Europe,UK,Pillows & Cushions,Be Unique,8264.00,19049.00,,
+Europe,Spain,Exercise,Be Unique,9761.00,13831.00,,
+South America,Brazil,Décor,Enjoy the Moment,15719.00,8723.00,,
+Europe,Germany,Décor,Tailored for You,7273.00,6184.00,,
+South America,Mexico,Apparel and Footwear,Enjoy the Moment,9250.00,15790.00,,
+South America,Mexico,Apparel and Footwear,Spring into Summer,8121.00,10451.00,,
+North & Central America,Canada,Décor,Be Unique,9192.00,6179.00,,
+North & Central America,Canada,Exercise,Be Unique,8465.00,7654.00,,
+Asia Pacific,Korea,Décor,Be Unique,17627.00,11422.00,,
+North & Central America,USA,Electronics,Enjoy the Moment,15148.00,19098.00,,
+Europe,Italy,Pillows & Cushions,Tailored for You,5846.00,8447.00,,
+North & Central America,USA,Décor,Fun with Colors,5197.00,18456.00,,
+South America,Brazil,Apparel and Footwear,Enjoy the Moment,5103.00,6799.00,,
+Asia Pacific,Australia,Apparel and Footwear,Be Unique,11988.00,19348.00,,
+Europe,Italy,Lighting,Tailored for You,14992.00,15699.00,,
+Europe,France,Lighting,Enjoy the Moment,15119.00,17269.00,,
+Europe,Italy,Apparel and Footwear,Enjoy the Moment,15740.00,7685.00,,
+Asia Pacific,Indonesia,Electronics,Be Unique,14778.00,13122.00,,
+North & Central America,Canada,Electronics,Enjoy the Moment,10296.00,7313.00,,
+Asia Pacific,China,Décor,Enjoy the Moment,14605.00,18971.00,,
+Europe,Spain,Pillows & Cushions,Tailored for You,14328.00,15577.00,,
+Europe,Italy,Electronics,Tailored for You,11247.00,10339.00,,
+Asia Pacific,Australia,Pillows & Cushions,Be Unique,12409.00,10914.00,,
+South America,Brazil,Pillows & Cushions,Get Sporty,5418.00,13970.00,,
+North & Central America,USA,Pillows & Cushions,Enjoy the Moment,15387.00,6961.00,,
+North & Central America,USA,Pillows & Cushions,Be Unique,17859.00,17681.00,,
+South America,Brazil,Lighting,Spring into Summer,10934.00,19723.00,,
+North & Central America,USA,Décor,Enjoy the Moment,10344.00,15220.00,,
+North & Central America,Canada,Exercise,Fun with Colors,13735.00,16671.00,,
+Europe,Germany,Pillows & Cushions,Fun with Colors,14290.00,10487.00,,
+Europe,Spain,Electronics,Fall into Winter,12739.00,19242.00,,
+Europe,Germany,Exercise,Enjoy the Moment,19503.00,14609.00,,
+North & Central America,USA,Electronics,Enjoy the Moment,11441.00,6741.00,,
+Asia Pacific,Korea,Lighting,Tailored for You,136.00,15079.00,,
+South America,Mexico,Décor,Fall into Winter,1370.00,16389.00,,
+South America,Brazil,Décor,Be Unique,21637.00,5666.00,,
+North & Central America,Canada,Electronics,Fun with Colors,10480.00,7379.00,,
+Asia Pacific,Japan,Electronics,Spring into Summer,9781.00,19592.00,,
+Europe,UK,Pillows & Cushions,Be Unique,16859.00,13324.00,,
+Europe,Germany,Exercise,Fall into Winter,14764.00,5876.00,,
+South East,US,Team Sports,Fall into Winter,5972.00,10692.00,Miami,Florida
+South East,US,Team Sports,Fun with Colors,12929.00,9077.00,Miami,Florida
+South East,US,Team Sports,Tailored for You,10225.00,12472.00,Miami,Florida
+South East,US,Team Sports,Tailored for You,71.00,10528.00,Miami,Florida
+South East,US,Team Sports,Be Unique,11564.00,19306.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,7146.00,17780.00,Miami,Florida
+South East,US,Team Sports,Fall into Winter,5622.00,12306.00,Miami,Florida
+South East,US,Team Sports,Fall into Winter,7264.00,9868.00,Miami,Florida
+South East,US,Team Sports,Tailored for You,9140.00,19323.00,Miami,Florida
+South East,US,Team Sports,Tailored for You,9935.00,15232.00,Miami,Florida
+South East,US,Team Sports,Spring into Summer,11620.00,17230.00,Miami,Florida
+South East,US,Team Sports,Fun with Colors,6738.00,11176.00,Miami,Florida
+South East,US,Team Sports,Be Unique,9963.00,18377.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,7842.00,10624.00,Miami,Florida
+South East,US,Team Sports,Get Sporty,5496.00,15301.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,16523.00,17741.00,Miami,Florida
+South East,US,Team Sports,Spring into Summer,5333.00,7346.00,Miami,Florida
+South East,US,Team Sports,Be Unique,17488.00,9941.00,Miami,Florida
+South East,US,Team Sports,Fun with Colors,5712.00,6947.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,9702.00,7876.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,13132.00,17228.00,Miami,Florida
+South East,US,Team Sports,Get Sporty,6651.00,19835.00,Miami,Florida
+South East,US,Team Sports,Spring into Summer,14114.00,15482.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,14651.00,8429.00,Miami,Florida
+South East,US,Team Sports,Be Unique,8628.00,12622.00,Miami,Florida
+South East,US,Team Sports,Get Sporty,11983.00,9825.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,13132.00,17228.00,Miami,Florida
+South East,US,Team Sports,Get Sporty,6651.00,19835.00,Miami,Florida
+South East,US,Team Sports,Spring into Summer,14114.00,15482.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,14651.00,8429.00,Miami,Florida
+South East,US,Team Sports,Be Unique,8628.00,12622.00,Miami,Florida
+South East,US,Team Sports,Get Sporty,11983.00,9825.00,Miami,Florida
+South East,US,Team Sports,Fall into Winter,7264.00,9868.00,Miami,Florida
+South East,US,Team Sports,Tailored for You,9140.00,19323.00,Miami,Florida
+South East,US,Team Sports,Tailored for You,9935.00,15232.00,Miami,Florida
+South East,US,Team Sports,Spring into Summer,11620.00,17230.00,Miami,Florida
+South East,US,Team Sports,Fun with Colors,6738.00,11176.00,Miami,Florida
+South East,US,Team Sports,Be Unique,9963.00,18377.00,Miami,Florida
+South East,US,Team Sports,Enjoy the Moment,7842.00,10624.00,Miami,Florida
+South East,US,Team Sports,Get Sporty,5496.00,15301.00,Miami,Florida
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,13873.00,10617.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16611.00,7917.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12174.00,6996.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5867.00,19049.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9112.00,11930.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16386.00,9989.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14691.00,14601.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12974.00,19462.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10246.00,18683.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5333.00,7346.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1159.00,19059.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,17488.00,9941.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12711.00,8946.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5712.00,6947.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1027.00,10643.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11703.00,9822.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16207.00,14061.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6497.00,6147.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,16850.00,15753.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,7264.00,9868.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1662.00,7721.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6414.00,12619.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6593.00,17096.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9140.00,19323.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9668.00,14658.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,8264.00,19049.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9761.00,13831.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15719.00,8723.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,7273.00,6184.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9250.00,15790.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,8121.00,10451.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9192.00,6179.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,8465.00,7654.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,17627.00,11422.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15148.00,19098.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5846.00,8447.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5197.00,18456.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5103.00,6799.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11988.00,19348.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14992.00,15699.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9935.00,15232.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15119.00,17269.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15740.00,7685.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14778.00,13122.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10296.00,7313.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14605.00,18971.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14328.00,15577.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11247.00,10339.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12409.00,10914.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5418.00,13970.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15387.00,6961.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11620.00,17230.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,17859.00,17681.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6738.00,11176.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10934.00,19723.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9963.00,18377.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,10344.00,15220.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,7842.00,10624.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,13735.00,16671.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,14290.00,10487.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,12739.00,19242.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,19503.00,14609.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5496.00,15301.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11441.00,6741.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,136.00,15079.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1370.00,16389.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,7264.00,9868.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,1662.00,7721.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6414.00,12619.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,6593.00,17096.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9140.00,19323.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9668.00,14658.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,8264.00,19049.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9761.00,13831.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15719.00,8723.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,7273.00,6184.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9250.00,15790.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,8121.00,10451.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,9192.00,6179.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,8465.00,7654.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,17627.00,11422.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,15148.00,19098.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5846.00,8447.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5197.00,18456.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,5103.00,6799.00,San Diego,California
+Far West,US,Books,EnjoyTheMoment; BeUnique; TailoredForYou,11988.00,19348.00,San Diego,California
