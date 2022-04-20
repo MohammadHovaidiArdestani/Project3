@@ -3,18 +3,24 @@ import pandas as pd
 import numpy as np
 import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
+import pyodbc
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.title("Project3 Team1 Visualization")
 st.sidebar.image("lh.png")
 
-@st.cache
-def load_data(nrows):
-    data = pd.read_csv('test.csv', nrows=nrows)
-    return data
+def init_connection():
+    return pyodbc.connect("DRIVER={ODBC Driver 17 for SQL Server};SERVER=" + st.secrets["server"] + ";DATABASE=" + st.secrets["database"] + ";UID="       
+        + st.secrets["username"]
+        + ";PWD="
+        + st.secrets["password"]
+    )
+
+conn = init_connection()
+
+chunk_test = pd.read_sql('SELECT * from CampaignAnalytics', conn)
 
 st.markdown("Campaign Analytics Data")
-chunk_test = load_data(500)
 
 #st.subheader("import the first chunk")
 st.write(chunk_test)
