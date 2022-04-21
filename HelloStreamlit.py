@@ -75,6 +75,7 @@ plt.legend(loc='upper right', prop={'size': 7})
 plt.show()
 st.pyplot()
 
+#-----------------------------------------
 st.subheader("MultiSelect Option - Revenue based on Country" )
 country_options = df['Country'].unique().tolist() #get the unique values to appear in the dropdown
 the_country = st.multiselect('Which country you would like to see?', country_options, ['Germany'])
@@ -89,6 +90,19 @@ fig = px.bar(filtered_data, x="Country", y="Revenue", color="Country", range_y=[
 fig.update_layout(width=800)
 st.write(fig)
 
+#-----------------------------------
 st.subheader("Animation test section" )
 
+country_options = df['Country'].unique().tolist() #get the unique values to appear in the dropdown
+the_country = st.multiselect('Which country you would like to see?', country_options, ['UK'])
+# df = df[df['Country']=='Country'] #filter the data based on the campaing
+
+filtered_data =chunk_test[chunk_test['Country'].isin(the_country)]
+
+fig2 = px.bar(filtered_data, x="Country", y="Revenue", color="Country", range_y=[0, 10000], animation_frame="CampaignName", animation_group="Country")
+
+fig2.layout.updatemenus[0].buttons[0].args[1]['frame']['duration'] = 30
+fig2.layout.updatemenus[0].buttons[0].args[1]['transition']['duration'] = 5
+fig2.update_layout(width=800)
+st.write(fig2)
 
